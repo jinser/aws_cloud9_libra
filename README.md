@@ -16,7 +16,7 @@ Check out the screenshot below for which fields were selected for this guide:
 
 ## 2. Increasing disk space
 
-The default disk space provided is 10G in cloud9, to increase the size, the resize.sh file provided here will have to be uploaded directly to the Cloud9 environment.
+The default disk space provided is 10G in cloud9, to increase the size, the **resize.sh** file provided here will have to be uploaded directly to the Cloud9 environment.
 Once the upload is completed, run the following command in the same location as where the resize.sh file has been uploaded to:
 ```
 `sh resize.sh 20`
